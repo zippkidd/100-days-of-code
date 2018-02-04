@@ -9,3 +9,6 @@ Worked on Alyssa's Digital Portfolio. Switched dead links to work as anchor link
 
 ### R1D2
 Working on the local development branch to Alyssa's Digital Portfolio project. Named FA5 branch in regards to upgrading from FontAwesome v4 to v5. Will attempt to make a branch for adding an image gallery seciton/carousel if time permits. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
+
+### R1D3
+Didn't manage to add the image gallery carousel yesterday so I'm doing that today. FCC exercises as usual as well. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
