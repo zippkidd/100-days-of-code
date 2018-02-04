@@ -12,3 +12,6 @@ Working on the local development branch to Alyssa's Digital Portfolio project. N
 
 ### R1D3
 Didn't manage to add the image gallery carousel yesterday so I'm doing that today. FCC exercises as usual as well. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
+
+### R1D4
+Images in the carousel need to be resized. Continuing FCC JS algorithms. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
