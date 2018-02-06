@@ -16,4 +16,4 @@ Didn't manage to add the image gallery carousel yesterday so I'm doing that toda
 ### R1D4
 Images in the carousel need to be resized. Continuing FCC JS algorithms. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
 
-### R1D5 Working on FCC JS challenges. Could use some review of built in functions. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+### R1D5 Working on FCC JS challenges. Could use some review of built in functions. Adding the rest of the correctly sized image to the carousel. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
