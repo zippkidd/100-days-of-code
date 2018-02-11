@@ -24,3 +24,12 @@ Did more FCC JS challenges. Finally managed to size the images appropriately in 
 
 ### R1D7
 Continuing FCC JS challenges. Replaced filler text and adjusting some final CSS alignments and colors before deploying portfolio project. More CryptoZombies tutorials [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
+
+### R1D8
+FCC JS challenges. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D9
+FCC JS challenges. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D10
+FCC JS challenges. Last style tweaks to portfolio project, finally ready to start deployment. Reviewing C++ for my upcoming job interview. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
