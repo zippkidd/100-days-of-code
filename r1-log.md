@@ -33,3 +33,6 @@ FCC JS challenges. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4
 
 ### R1D10
 FCC JS challenges. Last style tweaks to portfolio project, finally ready to start deployment. Reviewing C++ for my upcoming job interview. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
+
+### R1D11
+Finished FCC JS challenges. Playing around with C++ on XCode to practice for my interview. (also used openide.com?) [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
