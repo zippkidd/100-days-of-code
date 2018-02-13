@@ -36,3 +36,6 @@ FCC JS challenges. Last style tweaks to portfolio project, finally ready to star
 
 ### R1D11
 Finished FCC JS challenges. Playing around with C++ on XCode to practice for my interview. (also used openide.com?) [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D12
+FCC JQuery stuff. More C++ practice and review- interview tomorrow! [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
