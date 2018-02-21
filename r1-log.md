@@ -42,3 +42,9 @@ FCC jQuery stuff. More C++ practice and review- interview tomorrow! [FCC profile
 
 ### R1D13
 Started next FCC challenges. Worked on setting up the random quote machine. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D14
+Finished random quote machine. Started Weather app challenge. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D15
+Figuring out how to use the FCC weather API with ajax properly. Finally figured it out! Next up, making the front end to display the data. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
