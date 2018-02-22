@@ -48,3 +48,6 @@ Finished random quote machine. Started Weather app challenge. [FCC profile](http
 
 ### R1D15
 Figuring out how to use the FCC weather API with ajax properly. Finally figured it out! Next up, making the front end to display the data. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
+
+### R1D16
+Today I managed to succesfully access properties of the JSON returned in my ajax request and display it. Now to make the front end a little less plain (and add Celsius <-> Farenheit converter) [CodePen Link](https://codepen.io/zippkidd/pen/paaOvb?editors=1010)
