@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 1, 2018].
 
 ## Log
 
-### R1D1 
+### R1D1
 Worked on Alyssa's Digital Portfolio. Switched dead links to work as anchor links. Made a github repository and setup pgp keys to connect via ssh. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
 
 ### R1D2
@@ -16,10 +16,10 @@ Didn't manage to add the image gallery carousel yesterday so I'm doing that toda
 ### R1D4
 Images in the carousel need to be resized. Continuing FCC JS algorithms. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
 
-### R1D5 
+### R1D5
 Working on FCC JS challenges. Could use some review of built in functions. Adding the rest of the correctly sized image to the carousel. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
 
-### R1D6 
+### R1D6
 Did more FCC JS challenges. Finally managed to size the images appropriately in the carousel and keep the aspect ratios. Merged the carousel_gallery branch to master. Almost ready to begin deploying the site. Enjoyed some CryptoZombies tutorials. [Digital Portfolio Repository](https://github.com/zippkidd/alyssaDigitalPortfolio)
 
 ### R1D7
@@ -50,4 +50,10 @@ Finished random quote machine. Started Weather app challenge. [FCC profile](http
 Figuring out how to use the FCC weather API with ajax properly. Finally figured it out! Next up, making the front end to display the data. [FCC profile](https://www.freecodecamp.org/fcc5b2e0118-fd1e-4b82-bb9c-8e1152d968e5)
 
 ### R1D16
-Today I managed to succesfully access properties of the JSON returned in my ajax request and display it. Now to make the front end a little less plain (and add Celsius <-> Farenheit converter) [CodePen Link](https://codepen.io/zippkidd/pen/paaOvb?editors=1010)
+Today I managed to successfully access properties of the JSON returned in my ajax request and display it. Now to make the front end a little less plain (and add Celsius <-> Fahrenheit converter) [CodePen Link](https://codepen.io/zippkidd/pen/paaOvb?editors=1010)
+
+### R1D17
+started the Wikipedia viewer for FCC and struggled the virtual host configs in apache. [CodePen Link](https://codepen.io/zippkidd)
+
+### R1D18
+Back to logging my work. Over the past two weeks I went through most of Wes Bos's JS30 video lectures and made a Simon game with vanilla JS. I had also managed to finally figure out how to structure a proper query to the Wikipedia API for the wiki viewer project. [CodePen Link](https://codepen.io/zippkidd)
