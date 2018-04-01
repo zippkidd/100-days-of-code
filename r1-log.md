@@ -57,3 +57,6 @@ started the Wikipedia viewer for FCC and struggled the virtual host configs in a
 
 ### R1D18
 Back to logging my work. Over the past two weeks I went through most of Wes Bos's JS30 video lectures and made a Simon game with vanilla JS. I had also managed to finally figure out how to structure a proper query to the Wikipedia API for the wiki viewer project. [CodePen Link](https://codepen.io/zippkidd)
+
+### R1D19
+Working on my digital portfolio. Using the Bootstrap grid to create a showcase section. Figured out how to layer the rows on top of each other so that I can remove the opacity with :hover of the top screenshot layer to show a description of the project.
