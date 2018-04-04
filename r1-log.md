@@ -60,3 +60,9 @@ Back to logging my work. Over the past two weeks I went through most of Wes Bos'
 
 ### R1D19
 Working on my digital portfolio. Using the Bootstrap grid to create a showcase section. Figured out how to layer the rows on top of each other so that I can remove the opacity with :hover of the top screenshot layer to show a description of the project.
+
+### R1D20
+Worked on a mobile friendly alternative to the layered grid rows using bootstrap media breakpoints. Went through the great interactive tutorials cssgridgarden and flexboxfroggy to get a feel of how to structure my grid without bootstrap
+
+### R1D21
+My portfolio's showcase section grid is functioning the way I want it to! Such a great feeling. Next up is populating it with my projects.
