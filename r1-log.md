@@ -66,3 +66,6 @@ Worked on a mobile friendly alternative to the layered grid rows using bootstrap
 
 ### R1D21
 My portfolio's showcase section grid is functioning the way I want it to! Such a great feeling. Next up is populating it with my projects.
+
+### R1D22
+Added content and some styling to the grid. Made a simple footer with fontawesome icons and styled them.
