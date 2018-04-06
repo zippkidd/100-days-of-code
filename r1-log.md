@@ -69,3 +69,6 @@ My portfolio's showcase section grid is functioning the way I want it to! Such a
 
 ### R1D22
 Added content and some styling to the grid. Made a simple footer with fontawesome icons and styled them.
+
+### R1D23
+Worked on the header/intro of my portfolio. After some frustration, realized my background-clip property was returning to it's  default setting because of my shorthand background declaration further  down in the rule.
