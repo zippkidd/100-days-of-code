@@ -72,3 +72,12 @@ Added content and some styling to the grid. Made a simple footer with fontawesom
 
 ### R1D23
 Worked on the header/intro of my portfolio. After some frustration, realized my background-clip property was returning to it's  default setting because of my shorthand background declaration further  down in the rule.
+
+### R1D24
+Finished header. Working nicely and it's responsive!
+
+### R1D25
+Reviewed jQuery to help a friend with smooth scrolling on his site. Set up PyCharm to start my Python journey!
+
+### R1D26
+Added some smooth scrolling effects to my portfolio. Next I'm going to add a background image to the site with a parallax effect.
