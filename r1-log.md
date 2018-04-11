@@ -81,3 +81,6 @@ Reviewed jQuery to help a friend with smooth scrolling on his site. Set up PyCha
 
 ### R1D26
 Added some smooth scrolling effects to my portfolio. Next I'm going to add a background image to the site with a parallax effect.
+
+### R1D27
+Added the parallax effect! Also made some minor tweaks to the style, chose and implemented a Google font family, and learned about image compression to minimize the loading time of my site.
