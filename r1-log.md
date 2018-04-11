@@ -84,3 +84,6 @@ Added some smooth scrolling effects to my portfolio. Next I'm going to add a bac
 
 ### R1D27
 Added the parallax effect! Also made some minor tweaks to the style, chose and implemented a Google font family, and learned about image compression to minimize the loading time of my site.
+
+### R1D28
+Added finishing touches to my portfolio like replacing the dead links with actual live ones. Worked through another JS30 lecture, always great stuff there.
