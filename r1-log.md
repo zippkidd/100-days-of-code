@@ -87,3 +87,6 @@ Added the parallax effect! Also made some minor tweaks to the style, chose and i
 
 ### R1D28
 Added finishing touches to my portfolio like replacing the dead links with actual live ones. Worked through another JS30 lecture, always great stuff there.
+
+### R1D29
+Converted images in my portfolio to JPEG and compressed their size to increase load time. Added some meta tags with descriptions and key words. Indexed my site with Google and verified it with Google Web Master's with another meta tag. Site is now live and hosted on GitHub!
