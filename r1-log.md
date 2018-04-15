@@ -93,3 +93,6 @@ Converted images in my portfolio to JPEG and compressed their size to increase l
 
 ### R1D30
 Learned about event delegation and local storage through JS30. Starting to read through You Don't Know JavaScript for extra review.
+
+### R1D31
+Added some extra functionality to Wes Bos's app to complete his challenge at the end of the video lecture. Read through another chapter of YDKJS.
