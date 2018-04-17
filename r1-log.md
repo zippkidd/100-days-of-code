@@ -96,3 +96,6 @@ Learned about event delegation and local storage through JS30. Starting to read 
 
 ### R1D31
 Added some extra functionality to Wes Bos's app to complete his challenge at the end of the video lecture. Read through another chapter of YDKJS.
+
+### R1D32
+Read more YDKJS. Worked through another JS30 video lecture.
