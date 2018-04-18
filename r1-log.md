@@ -99,3 +99,6 @@ Added some extra functionality to Wes Bos's app to complete his challenge at the
 
 ### R1D32
 Read more YDKJS. Worked through another JS30 video lecture.
+
+### R1D33
+Reading more YDKJS. Started working on the FCC Twitch TV app challenge.
