@@ -105,3 +105,6 @@ Reading more YDKJS. Started working on the FCC Twitch TV app challenge.
 
 ### R1D34
 Worked on the Twitch TV app. Successfully receiving JSON responses from Twitch, experimented with accessing the different types of data in the JSON that I can put in the web app.
+
+### R1D35
+Switched from jQuery's $.ajax()/$.getJSON to the new fetch API for the TwitchTV app. Found out I was accidentally requesting JSONP which fetch can't process with the help from FCC's JS gitter.
