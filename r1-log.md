@@ -102,3 +102,6 @@ Read more YDKJS. Worked through another JS30 video lecture.
 
 ### R1D33
 Reading more YDKJS. Started working on the FCC Twitch TV app challenge.
+
+### R1D34
+Worked on the Twitch TV app. Successfully receiving JSON responses from Twitch, experimented with accessing the different types of data in the JSON that I can put in the web app.
