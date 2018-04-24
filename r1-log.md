@@ -108,3 +108,9 @@ Worked on the Twitch TV app. Successfully receiving JSON responses from Twitch, 
 
 ### R1D35
 Switched from jQuery's $.ajax()/$.getJSON to the new fetch API for the TwitchTV app. Found out I was accidentally requesting JSONP which fetch can't process with the help from FCC's JS gitter.
+
+### R1D36
+Successfully using a for loop to create separate fetch requests and populating the results as list items in the HTML. Now to work on the CSS to pretty it up a little.
+
+### R1D37
+Didn't get to the CSS styling. Ended up polishing up the HTML populated from my results to show more of the response's info, organized it more, and set a couple minutes long interval to retrieving the data through the API to make sure the user sees current data.
