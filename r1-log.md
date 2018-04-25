@@ -114,3 +114,6 @@ Successfully using a for loop to create separate fetch requests and populating t
 
 ### R1D37
 Didn't get to the CSS styling. Ended up polishing up the HTML populated from my results to show more of the response's info, organized it more, and set a couple minutes long interval to retrieving the data through the API to make sure the user sees current data.
+
+### R1D38
+Worked with CSS on the stylesheet. Using flex to keep the resulting data centered on the page. Removed <li> standard styles and plan on customizing with background color radius and box-shadow.
