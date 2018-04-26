@@ -117,3 +117,6 @@ Didn't get to the CSS styling. Ended up polishing up the HTML populated from my 
 
 ### R1D38
 Worked with CSS on the stylesheet. Using flex to keep the resulting data centered on the page. Removed <li> standard styles and plan on customizing with background color radius and box-shadow.
+
+### R1D39
+Gave the <li> elements the custom styling mentioned yesterday. Will add the finishing touches of some gradient background colors to the project tomorrow.
