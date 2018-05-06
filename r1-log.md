@@ -125,4 +125,7 @@ Gave the <li> elements the custom styling mentioned yesterday. Will add the fini
 Took a break from my previous project. Riding the wave of inspiration from a squiggly line animation on a blog I saw and spent this morning trying to recreate it. Got the squiggly line now just for some CSS3 animations.
 
 ### R1D41
-Added the animations to the squiggly line, it officially looks like a moving wave! 
+Added the animations to the squiggly line, it officially looks like a moving wave!
+
+### R1D42
+Volunteered as a tech mentor for the Philly CoderDojo. Helped kids earn their HTML/CSS badges, also taught them some JavaScript.
