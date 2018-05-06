@@ -122,4 +122,7 @@ Worked with CSS on the stylesheet. Using flex to keep the resulting data centere
 Gave the <li> elements the custom styling mentioned yesterday. Will add the finishing touches of some gradient background colors to the project tomorrow.
 
 ### R1D40
-Took a break from my previous project. Riding the wave of inspiration from a squiggly line animation on a blog I saw and spent this morning trying to recreate it. Got the squiggly line now just for some CSS3 animations. 
+Took a break from my previous project. Riding the wave of inspiration from a squiggly line animation on a blog I saw and spent this morning trying to recreate it. Got the squiggly line now just for some CSS3 animations.
+
+### R1D41
+Added the animations to the squiggly line, it officially looks like a moving wave! 
