@@ -129,3 +129,6 @@ Added the animations to the squiggly line, it officially looks like a moving wav
 
 ### R1D42
 Volunteered as a tech mentor for the Philly CoderDojo. Helped kids earn their HTML/CSS badges, also taught them some JavaScript.
+
+### R1D43
+Worked on some pure CSS "loader" animations. 
